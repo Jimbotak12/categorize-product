@@ -14,7 +14,7 @@ The model is trained to recognize and categorize products into the following cla
 - Clothing & Accessories: Apparel, fashion items, and related accessories.
   
 3. Data Source
-The project utilizes a dataset from Kaggle, sourced from https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification. This dataset serves as the foundation for training the NLP model, providing a diverse range of product descriptions across different categories.
+- The project utilizes a dataset from Kaggle, sourced from https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification. This dataset serves as the foundation for training the NLP model, providing a diverse range of product descriptions across different categories.
 
 ## Usage
 To use the code for product categorization, follow the instructions provided in the project documentation. This includes data preprocessing, model training, and testing. The NLP model is designed to be adaptable, allowing users to fine-tune parameters or extend the functionality for different datasets or specific business needs.
