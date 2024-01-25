@@ -16,6 +16,23 @@ The model is trained to recognize and categorize products into the following cla
 3. Data Source
 - The project utilizes a dataset from Kaggle, sourced from https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification. This dataset serves as the foundation for training the NLP model, providing a diverse range of product descriptions across different categories.
 
+## Model Architecture
+
+
+## Performance Graph
+- Accuracy Graph
+  ![accuracy_graph](https://github.com/Jimbotak12/categorize-product/assets/122562533/d0dc8089-b18b-47e2-96a8-017f6f530e70)
+
+- Loss Graph
+  ![loss_graph](https://github.com/Jimbotak12/categorize-product/assets/122562533/5fc04456-8dde-4755-946d-8021f3364b80)
+
+## Result
+- Classification Report
+  ![classification_report](https://github.com/Jimbotak12/categorize-product/assets/122562533/8f731a62-e0a5-497f-9f8f-fd99c76b706f)
+
+- Confusion Matrix
+  ![confusion_matrics](https://github.com/Jimbotak12/categorize-product/assets/122562533/1f7bb08b-6cd9-4c59-b4d3-cad8ede5aa12)
+
 ## Usage
 To use the code for product categorization, follow the instructions provided in the project documentation. This includes data preprocessing, model training, and testing. The NLP model is designed to be adaptable, allowing users to fine-tune parameters or extend the functionality for different datasets or specific business needs.
 
